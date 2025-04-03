@@ -1,0 +1,17 @@
+# Файлы окружения
+.env
+.env.*
+!.env.example
+
+# Docker
+docker-compose.override.yml
+
+# Питон
+__pycache__/
+*.py[cod]
+*.venv
+venv/
+
+# Audio files
+static/audio_files/*
+!static/audio_files/test.mp3
