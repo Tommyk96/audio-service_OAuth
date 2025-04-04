@@ -15,10 +15,21 @@
 ```bash
 git clone https://github.com/yourusername/audio-service.git
 cd audio-service
+
+
+```
+
+### Настройка окружения
+
+1. Скопируйте шаблон:
+
+```bash
+cp .env.example .env
 ```
 
 
-### Запустите сервер:
+
+## Запустите сервер:
 
 Copy
 
